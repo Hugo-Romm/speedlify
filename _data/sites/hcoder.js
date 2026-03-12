@@ -1,3 +1,6 @@
-module.exports = [
-  "https://hcoder.dev",
-];
+module.exports = {
+  label: "hcoder.dev",
+  urls: [
+    "https://hcoder.dev",
+  ]
+};
